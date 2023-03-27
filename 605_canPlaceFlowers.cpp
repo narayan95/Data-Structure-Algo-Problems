@@ -1,4 +1,5 @@
 /*Approach
+
 Simply yaha ham har ek array element ko le rhe hai aur check kr rhe ki agr uski value 0 hai to agal bagal fir check kr rhe aur agar agal bagal vale elements ki bhi value zero hai to present element yani (i) jis pr abhi point kr rha usse ham 1 bana de rhe hai aur fir next element pr move krke same process kr rhe hai.
 Dhyan rakhna hai sirf corner elements ka yani i=0 vale ka aur i= maxsize-1 vale ka kyunki unke bagal mai sirf ek element se hi check krna hai isliye isleftempty and is rightempty ki value nikalte vakt ek OR mai inki conditions dalni paadi.
 
