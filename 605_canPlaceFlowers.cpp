@@ -5,6 +5,8 @@ Dhyan rakhna hai sirf corner elements ka yani i=0 vale ka aur i= maxsize-1 vale 
 
 Code
 */
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     bool canPlaceFlowers(vector<int>& flowerbed, int n) {
