@@ -28,8 +28,10 @@ public:
            int minh=min(height[i],height[j]);
             area=max(area,(minh*(j-i)));
             
-            /*while(height[i]<=minh&&i<j) i++;
+            /*
+            while(height[i]<=minh&&i<j) i++;
             while(height[j]<=minh&&i<j) j--;
+            
             we can remove the below code with just above two lines too*/
             if(height[i]<height[j])
             {
