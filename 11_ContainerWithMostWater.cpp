@@ -2,9 +2,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 /*
-simply using two pointer concept and recursion here with base condition that left pointer should be less than the right pointer only.
-now taking the two heights and calculating the minimum of them and multipying it with width to calculate area and modifying area to maximum of current and previous max area.
-then we are incrementing the smaller pointer. also we could have written here:
+simply ham yaha two pointer concept aur recursion ka use kr rahe hai with base condition that left pointer should be less than the right pointer only.
+now dono pointer vali heights ko lege ham and we will calculate the minimum of the height between them  and multipying it with width to calculate area and modifying area by taking maximum of present area and previous max area.
+Fir ham chote pointer ko move karege bas because agar chota vala thoda bada ho jaye to aur pani ham store kr payege. also we could have written here:
 */
 
 /*
