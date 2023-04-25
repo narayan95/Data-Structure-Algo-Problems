@@ -1,2 +1,2 @@
-# Leetcode_Hindi-Hinglish
-This repository provides explanations of leetcode solutions in Hindi or Hinglish for native speakers' benefit.
+# Data-Structure-Algo-Problems
+This repository contains the solution of DSA problems solved and explained by me in various problem - solving and coding platforms.
