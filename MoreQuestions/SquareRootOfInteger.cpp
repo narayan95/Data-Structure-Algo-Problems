@@ -1,0 +1,1 @@
+// hame koi number diya hai aur uska square root ham nikal rahe hai
