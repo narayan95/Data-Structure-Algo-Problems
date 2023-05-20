@@ -7,6 +7,8 @@
 // through the while loop,  we area getting the value of middle elements of the two sorted arrays and thus later returning the median.
 
 //inside the loop nothing but the logic of merging two sorted arrays is used and it runs till (length of merged array)/2 .
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
